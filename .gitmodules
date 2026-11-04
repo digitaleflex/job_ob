@@ -1,0 +1,19 @@
+[submodule "vendor/freehire"]
+	path = vendor/freehire
+	url = https://github.com/strelov1/freehire.git
+
+[submodule "vendor/JobScraper"]
+	path = vendor/JobScraper
+	url = https://github.com/femakin/JobScraper.git
+
+[submodule "vendor/kenyan-job-finder"]
+	path = vendor/kenyan-job-finder
+	url = https://github.com/markbosire/kenyan-job-finder.git
+
+[submodule "vendor/Job-Sense"]
+	path = vendor/Job-Sense
+	url = https://github.com/declerke/Job-Sense.git
+
+[submodule "vendor/Nairobi-Data-Jobs-Tracker"]
+	path = vendor/Nairobi-Data-Jobs-Tracker
+	url = https://github.com/declerke/Nairobi-Data-Jobs-Tracker.git
