@@ -1,0 +1,41 @@
+{
+  "sandbox": {
+    "repository": "digitaleflex/job_ob",
+    "branch": "sandbox/othello-job-research-2026-11-04",
+    "baseBranch": "main",
+    "baseCommit": "30809dda97ca290afc639e2c42a32c5539ff8b13",
+    "createdAt": "2026-11-04"
+  },
+  "sources": [
+    {
+      "repository": "strelov1/freehire",
+      "branch": "main",
+      "pinnedCommit": "3f0c2015de2bf800bb8ed6e3d56d9276e1413aa0",
+      "submodulePath": "vendor/freehire"
+    },
+    {
+      "repository": "femakin/JobScraper",
+      "branch": "main",
+      "pinnedCommit": "c08e3ddd4ce18f30e2cd65d11f1360dc728d2d40",
+      "submodulePath": "vendor/JobScraper"
+    },
+    {
+      "repository": "markbosire/kenyan-job-finder",
+      "branch": "master",
+      "pinnedCommit": "4754080f753346153e2b1c60805771600fe397d6",
+      "submodulePath": "vendor/kenyan-job-finder"
+    },
+    {
+      "repository": "declerke/Job-Sense",
+      "branch": "main",
+      "pinnedCommit": "9400efec63efbb5f39cdd55aec97b24e7f01c501",
+      "submodulePath": "vendor/Job-Sense"
+    },
+    {
+      "repository": "declerke/Nairobi-Data-Jobs-Tracker",
+      "branch": "main",
+      "pinnedCommit": "8189f0b546924a6754888abadd34500342487441",
+      "submodulePath": "vendor/Nairobi-Data-Jobs-Tracker"
+    }
+  ]
+}
